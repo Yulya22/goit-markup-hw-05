@@ -171,20 +171,20 @@ img {
 /* SECTION ONE */
 
 .opening {
-  text-align: center;
+  padding: 188px 0;
   color: #ffffff;
   background-color: #2e2f42;
-  height: 600px;
-  padding: 188px 0 188px;
+  text-align: center;
+  max-width: 1440px;
+  margin: 0 auto;
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
     url(../images/hero-image.jpg);
-  max-width: 1440px;
+
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
 }
 
 .openingh {
